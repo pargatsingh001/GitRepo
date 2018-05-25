@@ -22,6 +22,6 @@ namespace MailChimpApi
         public string ADDRESS { get; set; }
         //public string PHONE { get; set; }
         //public string BIRTHDAY { get; set; }
-        // this is my first Master Changes
+        // this is my first Master Changes   ddd
     }
 }
