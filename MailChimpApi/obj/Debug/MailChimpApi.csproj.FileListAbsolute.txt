@@ -1,0 +1,22 @@
+D:\Current Development\MailChimpApi\MailChimpApi\bin\Debug\MailChimpApi.exe.config
+D:\Current Development\MailChimpApi\MailChimpApi\bin\Debug\MailChimpApi.exe
+D:\Current Development\MailChimpApi\MailChimpApi\bin\Debug\MailChimpApi.pdb
+D:\Current Development\MailChimpApi\MailChimpApi\bin\Debug\MailChimp.Api.Net.dll
+D:\Current Development\MailChimpApi\MailChimpApi\bin\Debug\Newtonsoft.Json.dll
+D:\Current Development\MailChimpApi\MailChimpApi\bin\Debug\SharpCompress.dll
+D:\Current Development\MailChimpApi\MailChimpApi\bin\Debug\Newtonsoft.Json.xml
+D:\Current Development\MailChimpApi\MailChimpApi\obj\Debug\MailChimpApi.csprojResolveAssemblyReference.cache
+D:\Current Development\MailChimpApi\MailChimpApi\obj\Debug\MailChimpApi.csproj.CoreCompileInputs.cache
+D:\Current Development\MailChimpApi\MailChimpApi\obj\Debug\MailChimpApi.csproj.CopyComplete
+D:\Current Development\MailChimpApi\MailChimpApi\obj\Debug\MailChimpApi.exe
+D:\Current Development\MailChimpApi\MailChimpApi\obj\Debug\MailChimpApi.pdb
+E:\Sakshi\MailChimpApi\MailChimpApi\bin\Debug\MailChimpApi.exe.config
+E:\Sakshi\MailChimpApi\MailChimpApi\obj\Debug\MailChimpApi.exe
+E:\Sakshi\MailChimpApi\MailChimpApi\obj\Debug\MailChimpApi.pdb
+E:\Sakshi\MailChimpApi\MailChimpApi\bin\Debug\MailChimpApi.exe
+E:\Sakshi\MailChimpApi\MailChimpApi\bin\Debug\MailChimpApi.pdb
+E:\Sakshi\MailChimpApi\MailChimpApi\bin\Debug\MailChimp.Api.Net.dll
+E:\Sakshi\MailChimpApi\MailChimpApi\bin\Debug\Newtonsoft.Json.dll
+E:\Sakshi\MailChimpApi\MailChimpApi\bin\Debug\SharpCompress.dll
+E:\Sakshi\MailChimpApi\MailChimpApi\bin\Debug\Newtonsoft.Json.xml
+E:\Sakshi\MailChimpApi\MailChimpApi\obj\Debug\MailChimpApi.csprojResolveAssemblyReference.cache
