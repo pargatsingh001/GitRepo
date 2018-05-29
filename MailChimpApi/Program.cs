@@ -17,6 +17,7 @@ using MailChimp.Api.Net.Domain.Lists;
 namespace MailChimpApi
 {
     //This is the change made by second branch
+    // cchange commit intro Master Branch
     static class Program
     {
         public static string apiKey = "d624ba77ca413588fa58a5b4c0173aed-us18"; //your API KEY created by you.
@@ -26,6 +27,7 @@ namespace MailChimpApi
         static void Main(string[] args)
         {
             //  getListMemmber();
+            //ashghsdf sdfhsd
 
             DataTable dt = GetUserFromDB();
             //   UpdateBulkUsers(dt);
